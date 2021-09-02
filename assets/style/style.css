@@ -1,1 +1,5 @@
 /* BASIC STYLES HERE */
+.cart-scroll{
+  max-height: 12rem;
+  overflow-y: auto;
+}
